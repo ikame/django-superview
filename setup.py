@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'django-superview',
-    version = "0.4",
+    version = "0.4.0",
     description = "Generic View class with extra funionality for Django",
     long_description = "",
     keywords = 'django, view',
